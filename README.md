@@ -16,3 +16,5 @@
 2. finetune_sample_num: 10，30
 3. detect_sample_num: 30，50
 4. finetune_learning_rate: 0.0001，0.002
+
+https://github.com/cwang-nus/PN-Train
